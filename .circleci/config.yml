@@ -12,7 +12,9 @@ jobs:
             - run: yarn
             - run: yarn build
   test: 
-    <<: *defaults_node
+    executor:
+      name: node/default
+    steps:
     - checkout
     - node/with-cache:
       steps:
