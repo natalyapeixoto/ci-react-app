@@ -1,3 +1,6 @@
+[![Node.js CI](https://github.com/natalyapeixoto/ci-react-app/actions/workflows/node.js.yml/badge.svg)](https://github.com/natalyapeixoto/ci-react-app/actions/workflows/node.js.yml)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
